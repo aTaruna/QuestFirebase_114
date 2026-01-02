@@ -1,4 +1,7 @@
-package com.example.firebase
+package com.example.firebase.view.route
+
+import com.example.firebase.view.route.DestinasiNavigasi
+import com.example.firebase.R
 
 object DestinasiEdit : DestinasiNavigasi {
     override val route = "item_edit"
